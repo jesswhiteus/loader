@@ -9851,7 +9851,7 @@
                                         children: "Detailed Video Information"
                                     }), (0,
                                     he.jsx)("video", {
-      src: "asad-life.mp4",  // Apni file ka sahi path yahan likhen
+      src: "detailed-video.mp4",  // Apni file ka sahi path yahan likhen
       width: "560",
       height: "315",
       controls: true,
